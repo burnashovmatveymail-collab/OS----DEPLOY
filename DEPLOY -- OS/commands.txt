@@ -1,0 +1,4 @@
+exit        -- exit from program
+cls         -- clear the terminal
+list        -- lists of commands
+home        -- going the start program

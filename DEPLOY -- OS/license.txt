@@ -1,0 +1,6 @@
+The "deploy" operating system emulator was created for the sake of a project. The creator was bored, so he decided to make this project.
+Project code: ~~~
+
+Please do not rename the code. This will cause a crash. Have a great evening.
+
+Matvey Burnashov
